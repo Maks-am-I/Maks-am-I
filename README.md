@@ -22,7 +22,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JjMHVocmZzMXdlZWtxZXlxNX
 ### :man_technologist: About Me :
 I'm a beginner/junior frontend developer
 - :house: I work as a freelance at home.
-- :man_student: I am studying at SibFU (Siberian Federal University) Since 2025 (yes, I'm just starting), I have been specializing in software development. Before that, I completed several courses on layout and web development.
+- :man_student: I am studying at SibFU (Siberian Federal University), I have been specializing in software development. Before that, I completed several courses on layout and web development.
 - :hourglass_flowing_sand: In my free time, I play sports, read books and just go out with my family.
 
 ---
